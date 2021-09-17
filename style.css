@@ -1,0 +1,32 @@
+
+.title{
+    color: black;
+    font-weight: 700;
+}
+.red-color{
+    color: red;
+}
+.row{
+    display: flex;
+}
+.warn{
+    color: red;
+}
+.text-input{
+    width: 260px;
+    height: 30px;
+    border-radius: 6px;
+}
+.margin {
+    margin-right:15px;
+}
+::placeholder{
+    padding-left: 20px;
+}
+table, td {
+    border: 1px solid black;
+    text-align: center;
+}
+td{
+    width: 192px;
+}

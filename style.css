@@ -30,3 +30,6 @@ table, td {
 td{
     width: 192px;
 }
+th{
+    height: 50px;
+}
